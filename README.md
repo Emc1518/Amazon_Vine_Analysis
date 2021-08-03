@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this analysis is 
+The purpose of this analysis is to determine if participants in the Amazon Vine Program showed positivity bias when writing reviews.
 
 ## Results
 
