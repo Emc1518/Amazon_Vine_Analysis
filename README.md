@@ -20,4 +20,4 @@ The purpose of this analysis is to determine if participants in the Amazon Vine 
 
 ## Summary
 
-Based on the results of the Vine program data analysis it can be concluded that there is a postivity bias in the reviews because there were 40,471 unpaid reviews that accounted for 38.7% of 5-star reviews where only 94 paid reviews accounted for 51.06% of 5-star reviews. An analysis that can confirm this bias is the use the verified purchase data to determine which reviewers actually made purchases. 
+Based on the results of the Vine program data analysis it can be concluded that there is a postivity bias in the reviews because there were 40,471 unpaid reviews that accounted for 38.7% of 5-star reviews where only 94 paid reviews accounted for 51.06% of 5-star reviews. An analysis that can confirm this bias is to use the verified purchase data to determine which reviewers actually made purchases. 
